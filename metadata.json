@@ -1,0 +1,5 @@
+{
+  "name": "CloneMaster Web",
+  "description": "A professional, browser-based watermark removal tool featuring a Photoshop-style clone stamp, PDF support, and local processing.",
+  "requestFramePermissions": []
+}
